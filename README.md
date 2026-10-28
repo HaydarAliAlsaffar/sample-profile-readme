@@ -13,4 +13,4 @@ I'm currently an Information Systems major at the University of Texas in San Ant
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/HaydarAliAlsaffar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-ali-alsaffar/)
 
-_"Your sample quote here!"_
+_"Whenever a person conceals a thing in his heart, it manifests itself through unintentioal words from his tongue and in the expression of his face."_
